@@ -6,7 +6,7 @@ Online Ticketing System
 Step 1:<br>
 Start a Webserver Ex:(WampServer)<br>
 Step 2<br>
-Copy oth2 folder to C:\wamp64\www folder<br>
+Copy oth2 folder to www folder, Folder Path - (C:\wamp64\www)<br>
 Step 3<br>
 Go to web browser<br>
 Step 4<br>
